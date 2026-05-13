@@ -2,9 +2,8 @@
 
 CHANNEL_ID = -1002042940976
 
-ADMIN_ID = 123456789
+ADMIN_ID = 6658209643
 
-WEBINAR_LINK = "@NextGenWebinar_bot"
+WEBINAR_LINK = "https://t.me/NextGenWebinar_bot"
 
 REQUIRED_INVITES = 5
-
